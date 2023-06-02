@@ -38,7 +38,7 @@
     "tinify": "^1.6.0-beta.2"
   },
   "devDependencies": {
-    "@octokit/webhooks": "^10.3.1",
+    "@octokit/webhooks": "^11.1.0",
     "@types/bytes": "^3.1.0",
     "@types/jest": "^26.0.23",
     "@types/mime": "^3.0.1",
